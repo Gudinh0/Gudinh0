@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gudinh0&label=Profile%20views&color=0e75b6&style=flat" alt="gudinh0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudinh0" alt="gudinh0" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/oanderson_souza" target="blank"><img src="https://img.shields.io/twitter/follow/oanderson_souza?logo=twitter&style=for-the-badge" alt="oanderson_souza" /></a> </p>
 
 - 🌱 I am currently studying **Computer Engineering at UNIVESP**
 
-- 👨‍💻 All of my projects are available at [andersonsouza.ga](andersonsouza.ga)
+- 👨‍💻 All of my projects are available at [andersonsouza.ga](https://andersonsouza.ga)
 
 - 💬 Ask me about **front-end development**
 
